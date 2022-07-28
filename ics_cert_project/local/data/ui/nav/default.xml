@@ -1,0 +1,11 @@
+<nav search_view="search">
+  <view name="icscert_advisory_dashboard" default='true' />
+  <view name="vendors__product_affected"  />
+  <view name="common_weakness_enumeration_cwe_view"  />
+  <view name="search"  />
+  <view name="analytics_workspace" />
+  <view name="datasets" />
+  <view name="reports" />
+  <view name="alerts" />
+  <view name="dashboards" />
+</nav>
